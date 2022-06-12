@@ -22,5 +22,6 @@ let titleCased = ()=>{
         return f;
 
  });  
- 
+ return newTt;
+} 
  
