@@ -16,4 +16,4 @@ let titleCased = ()=>{
   const newTt = tutorials.map(t=>{
      
 
-    
+    let f = "";
