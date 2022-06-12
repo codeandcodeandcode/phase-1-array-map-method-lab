@@ -20,8 +20,7 @@ let titleCased = ()=>{
 
     t.split(" ").forEach(w=>{f+=(w.charAt(0).toUpperCase()+w.slice(1)+" ");});
         return f;
-
- });  
+});  
  return newTt;
 } 
  
