@@ -12,4 +12,6 @@ const tutorials = [
 ];
 
 let titleCased = ()=>{
+  
+  const newTt = tutorials.map(t=>{
      
