@@ -17,3 +17,10 @@ let titleCased = ()=>{
      
 
     let f = "";
+
+    t.split(" ").forEach(w=>{f+=(w.charAt(0).toUpperCase()+w.slice(1)+" ");});
+        return f;
+
+ });  
+ 
+ 
